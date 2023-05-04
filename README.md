@@ -5,4 +5,6 @@ The first two steps use the raw data from the field experiment to generate estim
 
 The third step analyzes the data to look for adaptive divergence between species. The models estimate the interaction between species and garden and use constrasts to test for an adventage of the local species
 
-The final four step looks at phenotypic predictors of fitness variation between and within species. It uses the first to principle components of leaf trait variation to ask if the same trait variation predicts fitness differences between species and fitness diferences within a specie across populations. 
+The four step looks at phenotypic predictors of fitness variation between and within species. It uses the first to principle components of leaf trait variation to ask if the same trait variation predicts fitness differences between species and fitness diferences within a specie across populations. 
+
+The final fifth step compares leaf trait variation measured in the greenhouse to trait variation measured in the natural field environment.
